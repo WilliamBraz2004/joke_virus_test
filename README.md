@@ -2,7 +2,7 @@
  
 <h2>💬Descrição:</h2>
 
-Projeto de site Flex Turismos, usando os conhecimentos de Flexbox, feito em HTML e CSS, do curso posicionando elementos com Flexbox em CSS, da Digital Innovation One.
+“Fake vírus”, usa .bat para usar o que estiver no bloco de notas, e enviar para o prompt de comando(cmd). Totalmente inofensivo, sem riscos á máquina.
 
 <h2>🖥️Tela do Programa</h2>
 
