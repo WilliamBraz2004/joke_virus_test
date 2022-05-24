@@ -6,7 +6,7 @@ Projeto de site Flex Turismos, usando os conhecimentos de Flexbox, feito em HTML
 
 <h2>🖥️Tela do Programa</h2>
 
-<img src="https://user-images.githubusercontent.com/86376135/170055623-d2044c84-b88e-47c0-b0db-e46d23508e57.png" width="550px"/> <img src="https://user-images.githubusercontent.com/86376135/170055653-c847e297-3758-4a7a-a46a-5e8ac19445fa.png" width="200px"/>
+<img src="https://user-images.githubusercontent.com/86376135/170059697-de240ed7-47cc-4c7f-83a7-5889ab0bc62c.png" width="500px"/> <img src="https://user-images.githubusercontent.com/86376135/170059719-0496eb05-90fd-4066-9f35-88f5e7dcee78.png" width="500px"/>
 
 <h2>✒️Autor</h2>
 
